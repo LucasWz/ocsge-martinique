@@ -1,0 +1,28 @@
+code;label
+US1;Production primaire
+US2;Production secondaire
+US3;Production tertiaire
+US4;Réseaux de transport  Logistiques et infrastructures
+US5;Usage résidentiel
+US6;Autre usage
+US235;Usage mixte
+US1.1;Agriculture
+US1.2;Sylviculture
+US1.3;Activités d’extraction
+US1.4;Pêche et aquaculture
+US2.4;Production d'énergie
+US4.1;Réseaux de transport
+US4.2;Services de logistique et de stockage
+US4.3;Réseaux d’utilité publique
+US6.1;Zones en transition
+US6.2;Zones abandonnées
+US6.3;Sans usage
+US6.4;Usage Inconnu
+US2.4.2;Production d'énergie thermique
+US2.4.3;Production d'énergie biomasse
+US2.4.4;Production d'énergies renouvelables
+US4.1.1;Réseaux de transport routier
+US4.1.2;Réseaux de transport ferré
+US4.1.3;Réseaux de transport aérien
+US4.1.4;Réseaux de transport fluvial et maritime
+US4.1.5;Autres réseaux de transport

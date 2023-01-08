@@ -1,0 +1,228 @@
+code_us;label_US;code_cs;label_CS;area
+US1.1;Agriculture;CS1.1.1.1;Zones bâties;0.0006695463220682273
+US1.1;Agriculture;CS1.1.1.2;Zones non bâties;2.7170649055582584e-05
+US1.1;Agriculture;CS1.1.2.1;Zones à matériaux minéraux;0.00029677266310992406
+US1.1;Agriculture;CS1.2.2;Surfaces d'eau;4.9074696892154814e-05
+US1.1;Agriculture;CS2.1.1.1;Peuplement de feuillus;0.004334835682199757
+US1.1;Agriculture;CS2.1.1.1.23;Forêt sèche basse;0.0001739249744118785
+US1.1;Agriculture;CS2.1.1.1.24;Forêt sèche haute;4.902059723916036e-05
+US1.1;Agriculture;CS2.1.1.1.25;Forêt moyennement humide ou humide;8.689215765704646e-05
+US1.1;Agriculture;CS2.1.1.1.28;Espaces sylvicoles de feuillus;4.001931664176603e-05
+US1.1;Agriculture;CS2.1.1.1.30;Formation arborée des zones agricoles ou d'habitation;0.012043632289834131
+US1.1;Agriculture;CS2.1.2.5.1;Friche avec fort couvert de ligneux bas;0.010421808547522463
+US1.1;Agriculture;CS2.1.2.5.2;Autre friche ou savane;0.007483944924876163
+US1.1;Agriculture;CS2.2.1;Formations herbacées;3.1990928137388665e-06
+US1.1;Agriculture;CS2.2.1.1;Prairies;0.06206091284607666
+US1.1;Agriculture;CS2.2.1.2;Pelouses, herbe rase;0.00012380976086046364
+US1.1;Agriculture;CS2.2.1.4;Terres arables;0.029950354146021357
+US1.1;Agriculture;CS2.2.1.4.1;Céréales;0.00014553347652038767
+US1.1;Agriculture;CS2.2.1.4.2;Oléoprotéagineux;8.764143785101968e-07
+US1.1;Agriculture;CS2.2.1.4.3;Cultures fourragères;0.0014479429492830675
+US1.1;Agriculture;CS2.2.1.4.4;Plantes aromatiques;8.686420616966599e-05
+US1.1;Agriculture;CS2.2.1.4.5.5;Cannes à sucre;0.03776465860190817
+US1.1;Agriculture;CS2.2.1.4.5.6;Légumes et fruits;0.012539386181640315
+US1.1;Agriculture;CS2.2.1.4.5.8;Tubercules tropicaux;0.0025310098872841393
+US1.1;Agriculture;CS2.2.1.4.5.9;Plantes ornementales, parfum,arômes et médecine;3.568052447161061e-05
+US1.1;Agriculture;CS2.2.2.2.1;Bambous;0.00010010780122270896
+US1.1;Agriculture;CS2.2.2.2.2;Bananiers;0.061960869964437545
+US1.1;Agriculture;CS2.2.2.2.3;Palmiers;0.0002750732922938475
+US1.2;Sylviculture;CS2.1.1.1.22;Forêt littorale;0.0010356594120820295
+US1.2;Sylviculture;CS2.1.1.1.23;Forêt sèche basse;0.0729381575190112
+US1.2;Sylviculture;CS2.1.1.1.24;Forêt sèche haute;0.08340309430990084
+US1.2;Sylviculture;CS2.1.1.1.25;Forêt moyennement humide ou humide;0.25663671032128466
+US1.2;Sylviculture;CS2.1.1.1.26;Formation semi-arborée d'altitude;0.0050925527170574665
+US1.2;Sylviculture;CS2.1.1.1.27;Peuplement de mahogany;0.024128096292765827
+US1.2;Sylviculture;CS2.1.1.1.28;Espaces sylvicoles de feuillus;0.00030432677798971665
+US1.2;Sylviculture;CS2.1.1.1.29;Forêt marécageuse;0.00020636943797353735
+US1.2;Sylviculture;CS2.1.1.1.30;Formation arborée des zones agricoles ou d'habitation;0.00199199881460447
+US1.2;Sylviculture;CS2.1.1.2;Peuplement de conifères;2.1729125625223492e-05
+US1.2;Sylviculture;CS2.1.2.5.1;Friche avec fort couvert de ligneux bas;5.659454865838428e-05
+US1.2;Sylviculture;CS2.1.2.5.2;Autre friche ou savane;2.7374424415195035e-05
+US1.2;Sylviculture;CS2.2.2.2.1;Bambous;0.024102857001322146
+US1.2;Sylviculture;CS2.2.2.2.3;Palmiers;0.00011820954511465413
+US1.3;Activités d’extraction;CS1.1.1.1;Zones bâties;1.8986273218404543e-05
+US1.3;Activités d’extraction;CS1.1.1.2;Zones non bâties;1.343114051675709e-05
+US1.3;Activités d’extraction;CS1.1.2.1;Zones à matériaux minéraux;0.0011839222160959875
+US1.3;Activités d’extraction;CS1.1.2.2;Zones à autres matériaux composites;7.062709698426308e-06
+US1.3;Activités d’extraction;CS1.2.2;Surfaces d'eau;2.3823683856992202e-05
+US1.3;Activités d’extraction;CS2.1.1.1.23;Forêt sèche basse;3.948102509447118e-05
+US1.3;Activités d’extraction;CS2.1.1.1.24;Forêt sèche haute;5.3179057232667594e-05
+US1.3;Activités d’extraction;CS2.1.1.1.25;Forêt moyennement humide ou humide;4.805491843320931e-05
+US1.3;Activités d’extraction;CS2.1.1.1.30;Formation arborée des zones agricoles ou d'habitation;3.116500676833996e-05
+US1.3;Activités d’extraction;CS2.1.2.5.1;Friche avec fort couvert de ligneux bas;0.0002004924123365729
+US1.3;Activités d’extraction;CS2.1.2.5.2;Autre friche ou savane;5.522402411585805e-05
+US1.3;Activités d’extraction;CS2.2.1.1;Prairies;4.59847050452881e-06
+US1.3;Activités d’extraction;CS2.2.1.2;Pelouses, herbe rase;3.427303183287149e-05
+US1.4;Pêche et aquaculture;CS1.1.1.1;Zones bâties;3.8500919714388276e-07
+US1.4;Pêche et aquaculture;CS1.2.2;Surfaces d'eau;7.826416466531388e-05
+US1.4;Pêche et aquaculture;CS2.1.1.1.30;Formation arborée des zones agricoles ou d'habitation;2.493092342161208e-06
+US1.4;Pêche et aquaculture;CS2.1.2.5.2;Autre friche ou savane;4.6833167936417834e-05
+US1.4;Pêche et aquaculture;CS2.2.1.2;Pelouses, herbe rase;7.85707293656158e-06
+US2;Production secondaire;CS1.1.1.1;Zones bâties;0.0013682117823607207
+US2;Production secondaire;CS1.1.1.2;Zones non bâties;0.0013240150708468993
+US2;Production secondaire;CS1.1.2.1;Zones à matériaux minéraux;0.0004686589822647948
+US2;Production secondaire;CS1.1.2.2;Zones à autres matériaux composites;1.7231641139617665e-05
+US2;Production secondaire;CS1.2.2;Surfaces d'eau;1.6428261292649985e-06
+US2;Production secondaire;CS2.1.1.1.23;Forêt sèche basse;3.6517265771258203e-06
+US2;Production secondaire;CS2.1.1.1.24;Forêt sèche haute;1.4552806655508824e-06
+US2;Production secondaire;CS2.1.1.1.25;Forêt moyennement humide ou humide;4.82749236887201e-06
+US2;Production secondaire;CS2.1.1.1.30;Formation arborée des zones agricoles ou d'habitation;0.00017000635621331337
+US2;Production secondaire;CS2.1.2.5.1;Friche avec fort couvert de ligneux bas;3.831517757244064e-05
+US2;Production secondaire;CS2.1.2.5.2;Autre friche ou savane;0.00012125084727382584
+US2;Production secondaire;CS2.2.1.1;Prairies;3.4141389343918316e-05
+US2;Production secondaire;CS2.2.1.2;Pelouses, herbe rase;0.0006024699656421669
+US2;Production secondaire;CS2.2.2.2.1;Bambous;9.851546810290546e-06
+US2;Production secondaire;CS2.2.2.2.3;Palmiers;1.076492928501362e-05
+US2.4.2;Production d'énergie thermique;CS1.1.1.1;Zones bâties;4.5946835288191984e-05
+US2.4.2;Production d'énergie thermique;CS1.1.1.2;Zones non bâties;8.630156977852364e-05
+US2.4.2;Production d'énergie thermique;CS1.1.2.1;Zones à matériaux minéraux;7.45583384351936e-06
+US2.4.2;Production d'énergie thermique;CS2.2.1.2;Pelouses, herbe rase;2.139641275930758e-06
+US2.4.2;Production d'énergie thermique;CS2.2.2.2.2;Bananiers;1.7365988611220566e-06
+US2.4.3;Production d'énergie biomasse;CS1.1.1.1;Zones bâties;4.6886365928529045e-07
+US2.4.3;Production d'énergie biomasse;CS1.1.1.2;Zones non bâties;6.702225677306579e-05
+US2.4.3;Production d'énergie biomasse;CS2.2.1.1;Prairies;9.192432704641416e-06
+US2.4.3;Production d'énergie biomasse;CS2.2.1.2;Pelouses, herbe rase;5.9906349082528265e-06
+US2.4.4;Production d'énergies renouvelables;CS1.1.1.1;Zones bâties;3.624676750628592e-07
+US2.4.4;Production d'énergies renouvelables;CS1.1.1.2;Zones non bâties;1.6397604822619792e-05
+US2.4.4;Production d'énergies renouvelables;CS2.2.1.1;Prairies;8.03767561147474e-05
+US2.4.4;Production d'énergies renouvelables;CS2.2.1.2;Pelouses, herbe rase;0.00012538947072790178
+US235;Usage mixte;CS1.1.1.1;Zones bâties;0.029202679810081185
+US235;Usage mixte;CS1.1.1.2;Zones non bâties;0.001649567847688991
+US235;Usage mixte;CS1.1.2.1;Zones à matériaux minéraux;0.0009444428888289595
+US235;Usage mixte;CS1.1.2.2;Zones à autres matériaux composites;9.237515748803463e-06
+US235;Usage mixte;CS1.2.2;Surfaces d'eau;0.000737986891410631
+US235;Usage mixte;CS2.1.1.1.23;Forêt sèche basse;5.855115277501713e-05
+US235;Usage mixte;CS2.1.1.1.24;Forêt sèche haute;0.000168298610500455
+US235;Usage mixte;CS2.1.1.1.25;Forêt moyennement humide ou humide;0.001090596708037017
+US235;Usage mixte;CS2.1.1.1.27;Peuplement de mahogany;2.2725460901204735e-05
+US235;Usage mixte;CS2.1.1.1.30;Formation arborée des zones agricoles ou d'habitation;0.015996591144798383
+US235;Usage mixte;CS2.1.2.5.1;Friche avec fort couvert de ligneux bas;0.00035224284064690686
+US235;Usage mixte;CS2.1.2.5.2;Autre friche ou savane;0.00017008750569280504
+US235;Usage mixte;CS2.2.1.1;Prairies;0.00033855923508284235
+US235;Usage mixte;CS2.2.1.2;Pelouses, herbe rase;0.0026062616029385454
+US235;Usage mixte;CS2.2.1.4;Terres arables;1.454920001197586e-05
+US235;Usage mixte;CS2.2.2.2.1;Bambous;6.370324306185588e-05
+US235;Usage mixte;CS2.2.2.2.2;Bananiers;9.810070409661462e-07
+US235;Usage mixte;CS2.2.2.2.3;Palmiers;0.00011960621782279435
+US3;Production tertiaire;CS1.1.1.1;Zones bâties;0.002723504567586365
+US3;Production tertiaire;CS1.1.1.2;Zones non bâties;0.002053348722761067
+US3;Production tertiaire;CS1.1.2.1;Zones à matériaux minéraux;0.00022234055719838418
+US3;Production tertiaire;CS1.2.2;Surfaces d'eau;4.280364544921406e-05
+US3;Production tertiaire;CS2.1.1.1.21;Mangrove;2.3939096450047042e-06
+US3;Production tertiaire;CS2.1.1.1.22;Forêt littorale;5.259387931944422e-06
+US3;Production tertiaire;CS2.1.1.1.23;Forêt sèche basse;2.8627733042899946e-05
+US3;Production tertiaire;CS2.1.1.1.24;Forêt sèche haute;0.0001441440170993134
+US3;Production tertiaire;CS2.1.1.1.25;Forêt moyennement humide ou humide;0.00010789905291479396
+US3;Production tertiaire;CS2.1.1.1.30;Formation arborée des zones agricoles ou d'habitation;0.0007511304021056342
+US3;Production tertiaire;CS2.1.2.5.1;Friche avec fort couvert de ligneux bas;0.00011785609404842369
+US3;Production tertiaire;CS2.1.2.5.2;Autre friche ou savane;0.0002823596138913176
+US3;Production tertiaire;CS2.1.2.5.3;Pelouse altimontaine;1.0765830945896862e-06
+US3;Production tertiaire;CS2.2.1.1;Prairies;0.00024553578341975746
+US3;Production tertiaire;CS2.2.1.2;Pelouses, herbe rase;0.004641587026304509
+US3;Production tertiaire;CS2.2.1.4;Terres arables;1.8367733852501254e-05
+US3;Production tertiaire;CS2.2.1.4.5.6;Légumes et fruits;6.189000302565834e-06
+US3;Production tertiaire;CS2.2.2.2.1;Bambous;1.5044211836875138e-05
+US3;Production tertiaire;CS2.2.2.2.2;Bananiers;1.279005962877278e-05
+US3;Production tertiaire;CS2.2.2.2.3;Palmiers;0.0001591368342658438
+US4.1.1;Réseaux de transport routier;CS1.1.1.1;Zones bâties;3.061138698603002e-06
+US4.1.1;Réseaux de transport routier;CS1.1.1.2;Zones non bâties;0.017324084823332826
+US4.1.1;Réseaux de transport routier;CS1.1.2.1;Zones à matériaux minéraux;5.172377656711671e-05
+US4.1.1;Réseaux de transport routier;CS1.2.2;Surfaces d'eau;2.0720167096876876e-06
+US4.1.1;Réseaux de transport routier;CS2.1.1.1.21;Mangrove;2.8970364178531505e-06
+US4.1.1;Réseaux de transport routier;CS2.1.1.1.23;Forêt sèche basse;2.433582723867306e-06
+US4.1.1;Réseaux de transport routier;CS2.1.1.1.24;Forêt sèche haute;2.4227627932684145e-06
+US4.1.1;Réseaux de transport routier;CS2.1.1.1.30;Formation arborée des zones agricoles ou d'habitation;9.007411891400374e-05
+US4.1.1;Réseaux de transport routier;CS2.1.2.5.1;Friche avec fort couvert de ligneux bas;1.781862237460752e-05
+US4.1.1;Réseaux de transport routier;CS2.1.2.5.2;Autre friche ou savane;1.1507897852804158e-05
+US4.1.1;Réseaux de transport routier;CS2.2.1.1;Prairies;1.2719730079879986e-05
+US4.1.1;Réseaux de transport routier;CS2.2.1.2;Pelouses, herbe rase;0.00036864675709570935
+US4.1.1;Réseaux de transport routier;CS2.2.2.2.1;Bambous;5.579477545494957e-06
+US4.1.1;Réseaux de transport routier;CS2.2.2.2.3;Palmiers;2.8110179695919647e-05
+US4.1.2;Réseaux de transport ferré;CS1.1.2.1;Zones à matériaux minéraux;1.1811757570456356e-05
+US4.1.3;Réseaux de transport aérien;CS1.1.1.1;Zones bâties;5.87332882734318e-05
+US4.1.3;Réseaux de transport aérien;CS1.1.1.2;Zones non bâties;0.0005135193161886814
+US4.1.3;Réseaux de transport aérien;CS1.1.2.1;Zones à matériaux minéraux;7.225910318292919e-06
+US4.1.3;Réseaux de transport aérien;CS1.2.2;Surfaces d'eau;3.264012397332215e-05
+US4.1.3;Réseaux de transport aérien;CS2.1.1.1.21;Mangrove;0.00013630587904129988
+US4.1.3;Réseaux de transport aérien;CS2.1.2.5.1;Friche avec fort couvert de ligneux bas;8.07797985295561e-06
+US4.1.3;Réseaux de transport aérien;CS2.1.2.5.2;Autre friche ou savane;4.833803995054697e-06
+US4.1.3;Réseaux de transport aérien;CS2.2.1.1;Prairies;0.0012462269831279367
+US4.1.3;Réseaux de transport aérien;CS2.2.1.2;Pelouses, herbe rase;5.668200976405865e-05
+US4.1.4;Réseaux de transport fluvial et maritime;CS1.1.1.1;Zones bâties;3.1770922881877875e-05
+US4.1.4;Réseaux de transport fluvial et maritime;CS1.1.1.2;Zones non bâties;0.0005217758248965188
+US4.1.4;Réseaux de transport fluvial et maritime;CS1.1.2.1;Zones à matériaux minéraux;3.739097516711867e-05
+US4.1.4;Réseaux de transport fluvial et maritime;CS1.2.2;Surfaces d'eau;0.0009699616951464447
+US4.1.4;Réseaux de transport fluvial et maritime;CS2.2.1.1;Prairies;1.301998315399922e-06
+US4.1.4;Réseaux de transport fluvial et maritime;CS2.2.1.2;Pelouses, herbe rase;3.589331644005547e-05
+US4.1.4;Réseaux de transport fluvial et maritime;CS2.2.2.2.3;Palmiers;7.08344789874085e-06
+US4.2;Services de logistique et de stockage;CS1.1.1.1;Zones bâties;9.918269715650376e-07
+US4.2;Services de logistique et de stockage;CS1.1.1.2;Zones non bâties;6.052849509196452e-06
+US4.2;Services de logistique et de stockage;CS1.1.2.1;Zones à matériaux minéraux;1.6140631470896126e-05
+US4.2;Services de logistique et de stockage;CS2.1.1.1.24;Forêt sèche haute;2.6148165613987354e-06
+US4.2;Services de logistique et de stockage;CS2.2.1.1;Prairies;3.6913996559884214e-06
+US4.2;Services de logistique et de stockage;CS2.2.1.2;Pelouses, herbe rase;4.551584138600282e-06
+US4.3;Réseaux d’utilité publique;CS1.1.1.1;Zones bâties;8.800029888254958e-05
+US4.3;Réseaux d’utilité publique;CS1.1.1.2;Zones non bâties;0.00013793247527466653
+US4.3;Réseaux d’utilité publique;CS1.1.2.1;Zones à matériaux minéraux;0.0001232119596948749
+US4.3;Réseaux d’utilité publique;CS1.1.2.2;Zones à autres matériaux composites;0.00011424494221104371
+US4.3;Réseaux d’utilité publique;CS1.2.2;Surfaces d'eau;3.428295010258714e-05
+US4.3;Réseaux d’utilité publique;CS2.1.1.1.24;Forêt sèche haute;7.213287065927545e-07
+US4.3;Réseaux d’utilité publique;CS2.1.1.1.30;Formation arborée des zones agricoles ou d'habitation;3.453631681077785e-05
+US4.3;Réseaux d’utilité publique;CS2.1.2.5.1;Friche avec fort couvert de ligneux bas;5.7908268565266334e-05
+US4.3;Réseaux d’utilité publique;CS2.1.2.5.2;Autre friche ou savane;4.48702521936023e-05
+US4.3;Réseaux d’utilité publique;CS2.2.1.1;Prairies;0.00010993319986738552
+US4.3;Réseaux d’utilité publique;CS2.2.1.2;Pelouses, herbe rase;0.00032426700842259014
+US4.3;Réseaux d’utilité publique;CS2.2.2.2.3;Palmiers;3.364096755371959e-06
+US5;Usage résidentiel;CS1.1.1.1;Zones bâties;0.007981019749876295
+US5;Usage résidentiel;CS1.1.1.2;Zones non bâties;0.0017140961104590124
+US5;Usage résidentiel;CS1.1.2.1;Zones à matériaux minéraux;0.0005881948705386964
+US5;Usage résidentiel;CS1.2.2;Surfaces d'eau;1.5546436948840344e-05
+US5;Usage résidentiel;CS2.1.1.1.23;Forêt sèche basse;0.0005963134251313978
+US5;Usage résidentiel;CS2.1.1.1.24;Forêt sèche haute;0.0013616855608878228
+US5;Usage résidentiel;CS2.1.1.1.25;Forêt moyennement humide ou humide;0.0020355120671687946
+US5;Usage résidentiel;CS2.1.1.1.26;Formation semi-arborée d'altitude;8.493645520129685e-07
+US5;Usage résidentiel;CS2.1.1.1.27;Peuplement de mahogany;1.1992089747104544e-06
+US5;Usage résidentiel;CS2.1.1.1.30;Formation arborée des zones agricoles ou d'habitation;0.07143456586333626
+US5;Usage résidentiel;CS2.1.2.5.1;Friche avec fort couvert de ligneux bas;0.000978797971802206
+US5;Usage résidentiel;CS2.1.2.5.2;Autre friche ou savane;0.0005446762080090722
+US5;Usage résidentiel;CS2.2.1.1;Prairies;0.004372818146906282
+US5;Usage résidentiel;CS2.2.1.2;Pelouses, herbe rase;0.027192013910210977
+US5;Usage résidentiel;CS2.2.1.4;Terres arables;0.00046757067757872294
+US5;Usage résidentiel;CS2.2.1.4.5.6;Légumes et fruits;9.656788059510503e-07
+US5;Usage résidentiel;CS2.2.1.4.5.8;Tubercules tropicaux;1.1856840614618403e-06
+US5;Usage résidentiel;CS2.2.2.2.1;Bambous;0.00019921385720413724
+US5;Usage résidentiel;CS2.2.2.2.2;Bananiers;2.0929352421788776e-05
+US5;Usage résidentiel;CS2.2.2.2.3;Palmiers;0.000689577620250308
+US6.1;Zones en transition;CS1.1.1.1;Zones bâties;0.00010587031592750183
+US6.1;Zones en transition;CS1.1.1.2;Zones non bâties;2.2691197787641578e-05
+US6.1;Zones en transition;CS1.1.2.1;Zones à matériaux minéraux;0.0007357760189249242
+US6.1;Zones en transition;CS2.1.2.5.1;Friche avec fort couvert de ligneux bas;1.355556971864434e-05
+US6.1;Zones en transition;CS2.1.2.5.2;Autre friche ou savane;1.8188303336736306e-05
+US6.1;Zones en transition;CS2.2.1.1;Prairies;3.2211835053782694e-05
+US6.1;Zones en transition;CS2.2.1.2;Pelouses, herbe rase;1.681327048979387e-05
+US6.2;Zones abandonnées;CS1.1.1.1;Zones bâties;4.133213488776484e-05
+US6.2;Zones abandonnées;CS1.1.1.2;Zones non bâties;2.5453886733891825e-06
+US6.2;Zones abandonnées;CS1.1.2.1;Zones à matériaux minéraux;8.023880199961153e-06
+US6.2;Zones abandonnées;CS2.1.1.1.30;Formation arborée des zones agricoles ou d'habitation;3.4569678263457763e-06
+US6.2;Zones abandonnées;CS2.1.2.5.1;Friche avec fort couvert de ligneux bas;1.8456998279942106e-05
+US6.2;Zones abandonnées;CS2.2.1.1;Prairies;5.5659526322463424e-06
+US6.2;Zones abandonnées;CS2.2.1.2;Pelouses, herbe rase;3.061138698603002e-06
+US6.3;Sans usage;CS1.1.2.1;Zones à matériaux minéraux;2.803714516437713e-05
+US6.3;Sans usage;CS1.2.1;Sols nus;0.0019449844128305207
+US6.3;Sans usage;CS1.2.1.6;Etang bois sec;0.0021216955193716137
+US6.3;Sans usage;CS1.2.2;Surfaces d'eau;0.0038049800741285166
+US6.3;Sans usage;CS2.1.1.1.21;Mangrove;0.019963755666978097
+US6.3;Sans usage;CS2.1.1.1.22;Forêt littorale;3.737113862768737e-05
+US6.3;Sans usage;CS2.1.1.1.23;Forêt sèche basse;6.823048235660865e-05
+US6.3;Sans usage;CS2.1.1.1.24;Forêt sèche haute;0.00012572939688088361
+US6.3;Sans usage;CS2.1.1.1.25;Forêt moyennement humide ou humide;0.0006400070098723707
+US6.3;Sans usage;CS2.1.1.1.27;Peuplement de mahogany;1.9506531548034564e-05
+US6.3;Sans usage;CS2.1.1.1.29;Forêt marécageuse;5.202583296300242e-07
+US6.3;Sans usage;CS2.1.1.1.30;Formation arborée des zones agricoles ou d'habitation;0.0039046568814490364
+US6.3;Sans usage;CS2.1.2.5.1;Friche avec fort couvert de ligneux bas;0.011812438324423203
+US6.3;Sans usage;CS2.1.2.5.2;Autre friche ou savane;0.010980692226068763
+US6.3;Sans usage;CS2.1.2.5.3;Pelouse altimontaine;0.0038911671329748686
+US6.3;Sans usage;CS2.2.1.1;Prairies;0.008749683849517433
+US6.3;Sans usage;CS2.2.1.2;Pelouses, herbe rase;0.00047497601841278085
+US6.3;Sans usage;CS2.2.2.2.1;Bambous;0.0009368175427393908
+US6.3;Sans usage;CS2.2.2.2.3;Palmiers;0.00018775825568256106

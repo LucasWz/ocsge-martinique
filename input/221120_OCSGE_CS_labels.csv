@@ -1,0 +1,55 @@
+code;label
+CS1;Sans végétation
+CS2;Avec végétation
+CS1.1;Surfaces anthropisées
+CS1.2;Surfaces naturelles
+CS2.1;Végétation ligneuse
+CS2.2;Végétation non ligneuse
+CS1.1.1;Zones imperméables
+CS1.1.2;Zones perméables
+CS1.2.1;Sols nus
+CS1.2.2;Surfaces d'eau
+CS2.1.1;Formations arborées
+CS2.1.2;Formations arbustives  Et sous-arbrisseaux
+CS2.1.3;Autres formations ligneuses
+CS2.2.1;Formations herbacées
+CS2.2.2;Autres formations  Non ligneuses
+CS1.1.1.1;Zones bâties
+CS1.1.1.2;Zones non bâties
+CS1.1.2.1;Zones à matériaux minéraux
+CS1.1.2.2;Zones à autres matériaux composites
+CS1.2.1.6;Etang bois sec
+CS2.1.1.1;Peuplement de feuillus
+CS2.1.1.2;Peuplement de conifères
+CS2.1.1.3;Peuplement mixte
+CS2.1.2.5;Autres formations arbustives
+CS2.2.1.1;Prairies
+CS2.2.1.2;Pelouses, herbe rase
+CS2.2.1.4;Terres arables
+CS2.2.1.5;Autres formations herbacées
+CS2.2.2.2;Bananier, palmiers, bambous
+CS2.1.1.1.21;Mangrove
+CS2.1.1.1.22;Forêt littorale
+CS2.1.1.1.23;Forêt sèche basse
+CS2.1.1.1.24;Forêt sèche haute
+CS2.1.1.1.25;Forêt moyennement humide ou humide
+CS2.1.1.1.26;Formation semi-arborée d'altitude
+CS2.1.1.1.27;Peuplement de mahogany
+CS2.1.1.1.28;Espaces sylvicoles de feuillus
+CS2.1.1.1.29;Forêt marécageuse
+CS2.1.1.1.30;Formation arborée des zones agricoles ou d'habitation
+CS2.1.2.5.1;Friche avec fort couvert de ligneux bas
+CS2.1.2.5.2;Autre friche ou savane
+CS2.1.2.5.3;Pelouse altimontaine
+CS2.2.1.4.1;Céréales
+CS2.2.1.4.2;Oléoprotéagineux
+CS2.2.1.4.3;Cultures fourragères
+CS2.2.1.4.4;Plantes aromatiques
+CS2.2.1.4.5;Autres
+CS2.2.2.2.1;Bambous
+CS2.2.2.2.2;Bananiers
+CS2.2.2.2.3;Palmiers
+CS2.2.1.4.5.5;Cannes à sucre
+CS2.2.1.4.5.6;Légumes et fruits
+CS2.2.1.4.5.8;Tubercules tropicaux
+CS2.2.1.4.5.9;Plantes ornementales, parfum,arômes et médecine
